@@ -4,7 +4,7 @@
 
 Hi, I'm [nixgnauhcuy](https://www.nixgnauhcuy.top/), a studious Embedded Developer 🚀 from China.
 
-  <img align="right" alt="GIF" src="https://cdn.jsdelivr.net/gh/nixgnauhcuy/cdn/image/code.gif" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://cdn.jsdelivr.net/gh/nixgnauhcuy/cdn@V1.1/image/code.gif" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
