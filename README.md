@@ -33,15 +33,15 @@ Hi, I'm [nixgnauhcuy](https://www.nixgnauhcuy.top/), a studious Embedded Develop
 ### 📢 Find me elsewhere
 <p align="center">
   <a href="https://twitter.com/nixgnauhcuy">
-    <img src="https://cdn.jsdelivr.net/gh/nixgnauhcuy/cdn/image/twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">
+    <img src="https://cdn.jsdelivr.net/gh/nixgnauhcuy/cdn@V1.1/image/twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">
   </a>  
 
   <a href="https://www.instagram.com/nixgnauhcuy/">
-    <img src="https://cdn.jsdelivr.net/gh/nixgnauhcuy/cdn/image/instagram.svg" alt="Instagram" style="vertical-align:top; margin:4px">
+    <img src="https://cdn.jsdelivr.net/gh/nixgnauhcuy/cdn@V1.1/image/instagram.svg" alt="Instagram" style="vertical-align:top; margin:4px">
   </a>
 
   <a href="https://steamcommunity.com/profiles/76561198391478198//">
-    <img src="https://cdn.jsdelivr.net/gh/nixgnauhcuy/cdn/image/steam.svg" alt="steam" style="vertical-align:top; margin:4px">
+    <img src="https://cdn.jsdelivr.net/gh/nixgnauhcuy/cdn@V1.1/image/steam.svg" alt="steam" style="vertical-align:top; margin:4px">
   </a>
 </p>
 
