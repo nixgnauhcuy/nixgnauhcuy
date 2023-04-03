@@ -13,7 +13,7 @@ Hi, I'm [nixgnauhcuy](https://www.nixgnauhcuy.top/), a studious Embedded Develop
 - 💻 with c, c++, java and python.
 - 🎉 My [personal blog](https://www.nixgnauhcuy.top). 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@nixgnauhcuy](https://twitter.com/nixgnauhcuy);
+- 📫 How to reach me: nixgnauhcuy@gmail.com;
 
 ---
 
@@ -26,7 +26,7 @@ Hi, I'm [nixgnauhcuy](https://www.nixgnauhcuy.top/), a studious Embedded Develop
 - 💻 使用 c, c++, java 和 python
 - 🎉 我的 [个人博客](https://www.nixgnauhcuy.top). 
 - 💬 有什么问题想要咨询可以告诉我，我很乐意帮助你;
-- 📫 如何联系我: [@nixgnauhcuy](https://twitter.com/nixgnauhcuy);
+- 📫 如何联系我: nixgnauhcuy@gmail.com;
 
 
 ---
