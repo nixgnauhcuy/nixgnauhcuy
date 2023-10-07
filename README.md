@@ -35,3 +35,4 @@ Hi, I'm [nixgnauhcuy](https://www.nixgnauhcuy.top/), a studious Embedded Develop
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nixgnauhcuy&show_icons=true&theme=gotham" alt="nixgnauhcuy" />
 
+![](https://raw.githubusercontent.com/nixgnauhcuy/nixgnauhcuy/main/assets/github-contribution-grid-snake.svg)              
