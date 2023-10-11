@@ -1,10 +1,13 @@
-<div align="center">
-   <h1>Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-</div>
+<h1 align="center">
+  <a href="https://www.nixgnauhcuy.top/">
+    <img src="https://readme-typing-svg.demolab.com?font=&size=30&color=2F81F7&lines=Hi,+welcome+to+my+profile!"/>
+  </a>
+</h1>
+
 
 Hi, I'm [nixgnauhcuy](https://www.nixgnauhcuy.top/), a studious Embedded Developer 🚀 from China.
 
-  <img align="right" alt="GIF" src="https://cdn.jsdelivr.net/gh/nixgnauhcuy/cdn@V1.1/image/code.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://cdn.jsdelivr.net/gh/nixgnauhcuy/nixgnauhcuy/assets/code.gif" width="500" height="450" />
   
 **Talking about Personal Stuffs:**
 
